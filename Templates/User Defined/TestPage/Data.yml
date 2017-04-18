@@ -1,0 +1,14 @@
+﻿---
+ID: "279aaf4b-3ecb-4019-9820-b4751c095548"
+Parent: "45245878-c4d4-4baf-86aa-6c170e1a3464"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/User Defined/TestPage/Data
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170418T084436Z
