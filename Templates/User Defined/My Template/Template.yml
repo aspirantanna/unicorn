@@ -1,0 +1,14 @@
+﻿---
+ID: "fdec6251-5fc1-4a21-bb2e-ad4328138633"
+Parent: "51cc752d-5f29-4824-87e9-84806564cdad"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/User Defined/My Template/Template
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170420T020024Z
